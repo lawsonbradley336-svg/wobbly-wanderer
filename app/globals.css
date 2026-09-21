@@ -4,11 +4,9 @@
 @tailwind components;
 @tailwind utilities;
 
-* {
-  @apply dark;
-}
 
 html {
+  color-scheme: dark;
   scroll-behavior: smooth;
 }
 
